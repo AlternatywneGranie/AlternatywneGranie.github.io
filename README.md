@@ -3,7 +3,7 @@
 # Alternatywne Granie
 
 ## Lista rzeczy:
-1.**Zrobić tę stronę(zainstalować Gita na komputerze)**
+1.**Zrobić tę stronę(zainstalować też Gita na komputerze)**
 
 2.**Zrobić program Fabryka**
 
